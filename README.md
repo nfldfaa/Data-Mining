@@ -1,3 +1,2 @@
 # Data Mining
-Daffa Naufal Athallah
-A12.2023.07078
+Daffa Naufal Athallah - A12.2023.07078
